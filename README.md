@@ -5,8 +5,11 @@ The bot for true priorities, that can make your life easier. To try - [@priority
 ## Install and run
 
 First get thsi repo onto your local computer.
+
 ***!!** You need python and pip installed.*
+
 Then install requirements: `python -m pip install requirements.txt`.
+
 And type `python main.py` to run the bot.
 
 ## Architecture
