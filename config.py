@@ -3,7 +3,7 @@ import enum, threading
 
 TOKEN = "6147744747:AAHioKeVq9D7k9ZUdzelRgW9HTNSUoMhdIU"
 
-root = owner_telegram_id_put_it_yourself
+root = 'owner_telegram_id_put_it_yourself'
 
 Admins = []
 
