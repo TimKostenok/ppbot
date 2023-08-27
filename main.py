@@ -9,6 +9,8 @@ bot = Bot(config.TOKEN, parse_mode="HTML")
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
 
+# TODO: You need to move endpoints in another file
+
 class PlanStatesGroup(StatesGroup):
     adding_wish = State()
     adding_wishes = State()
