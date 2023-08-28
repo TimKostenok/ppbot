@@ -1,9 +1,9 @@
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton, Message
 import enum, threading
 
-TOKEN = "6147744747:AAHioKeVq9D7k9ZUdzelRgW9HTNSUoMhdIU"
+TOKEN = "<token here>"
 
-root = owner_telegram_id_put_it_yourself
+root = "<owner_telegram_id> as int, not str"
 
 Admins = []
 
